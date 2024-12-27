@@ -1,0 +1,8 @@
+{
+    "yaml.schemaStore.enable": false,
+    "jdk.advanced.disable.nbjavac": false,
+    "cSpell.words": [
+        "Carouselslider",
+        "newpassword"
+    ]
+}
